@@ -111,6 +111,8 @@ dmypy.json
 
 # large data files
 data/athlete_events.csv
+jupyter_english/input/Dota_2/train_matches.jsonl
+jupyter_english/input/Dota_2/test_matches.jsonl
 
 # other shit
 .DS_Store
